@@ -1,5 +1,17 @@
 # Planeur Phénix Bleu
 
+
+## Objectif du projet
+
+**Phénix Bleu** vise à démontrer, par la simulation et la modélisation physique, la possibilité d'un planeur autonome capable de voler indéfiniment sans apport extérieur de carburant ni de ressources, grâce à :
+- Une architecture énergétique multi-sources (Argon-Plasma, Stirling solaire, Turbine Venturi)
+- Une gestion hermétique des flux (aucune perte de masse, zéro rejet)
+- Une biosphère embarquée fermée (recyclage complet de l'eau, de l'air et des nutriments)
+
+L'objectif est de prouver mathématiquement et par le code qu'un tel système peut fonctionner en boucle fermée, en respectant les lois de la thermodynamique et de la biologie, pour inspirer de nouveaux concepts d'aéronefs ultra-résilients et autonomes.
+
+---
+
 Ce dépôt contient la preuve thermodynamique et les modules de simulation du projet **Phénix Bleu** : un planeur autonome à propulsion hybride (Argon-Plasma / Stirling / Venturi) avec gestion fermée des flux et biosphère embarquée.
 
 ## Fonctionnalités principales
